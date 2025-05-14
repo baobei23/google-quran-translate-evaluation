@@ -1,0 +1,1 @@
+url: https://api.qurancdn.com/api/v4/verses/by_chapter/${chapter}?language=id&translations=33,134&words=0&fields=text_uthmani&per_page=300"
