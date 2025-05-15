@@ -19,7 +19,7 @@ Proyek ini bertujuan untuk melakukan analisis semantik, visualisasi, dan ekstrak
 - `BG-Google-Translated/` : Dataset hasil terjemahan Google.
 
 ## Sumber Data
-- API Qur'an: [Quran.com API](https://quran.api-docs.io/)
+- API Qur'an: [Quran.com API](https://api.qurancdn.com/)
 - Dataset terjemahan: Google Translate, sumber lain sesuai kebutuhan.
 
 ## Catatan
